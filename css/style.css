@@ -1,0 +1,173 @@
+.vijay1{
+	border: 10px solid green;
+    border-radius: 30px;
+    padding: 10px;
+    background-color: gray;
+}
+#ara1{
+	text-align:center;
+	color:orange;
+}
+.color1{
+	color:white;
+	background-color:red;
+}
+.color2{
+	color:white;
+	background-color:black;
+}
+.color3{
+	color:yellow;
+}
+.vijay2{
+	    border: 10px dashed blue;
+    padding: 10px;
+    background-color:mediumseagreen ;
+}
+#ara2{
+color:red;
+}
+.color4{
+    text-align: right;
+}
+.color5{
+text-align:center;
+color:orange;
+}
+.coior6{
+	text-align:justify;
+}
+.vijay3{
+	border:10px dotted;
+	padding:10px;
+	background-color:lightgray;
+}
+.color7{
+	text-align-last:center;
+}
+.color8{
+	text-align-last:left;
+}
+
+.color9{
+	
+	text-align-last: right;
+}
+.vijay4{
+	border:10px double;
+	padding:10px;
+	background-color:yellow;
+}
+#ara3{
+	direction: rtl;
+	
+}
+.color10{
+	    direction: rtl;
+}
+.color11{
+	    direction: ltr;
+    unicode-bidi: bidi-override
+}
+.vijay5{
+	    border: 10px dotted blueviolet;
+    background-color: coral;
+}
+#ara4{
+	text-align: center;
+    color: azure
+}
+.color12{
+	    text-decoration: overline;
+    color: crimson;
+}
+.color13{
+	    text-decoration: line-through;
+    color: cornsilk;
+}
+
+
+.color14{
+	        text-decoration: underline;
+    color: crimson;
+    text-decoration-style: double;
+    text-decoration-thickness: auto;
+    text-decoration-color: chartreuse
+}
+.color15{
+	    text-decoration: overline underline;
+    text-decoration-style: wavy;
+    text-decoration-color: brown;
+    color: skyblue;
+}
+.vijay6{
+	background-color: deeppink;
+    border: 10px solid;
+    border-color: darkkhaki;
+    padding: 10px;
+}
+#ara5{
+	    text-align: center;
+    color: lightblue;
+}
+.sub1{
+	    text-transform: uppercase;
+}
+.sub2{
+	    text-transform: lowercase;
+    color: mintcream;
+}
+.sub3{
+	text-transform: capitalize;
+    color: wheat;
+}
+.vijay7{
+	    border: 10px dashed;
+    background-color: gray;
+    padding: 10px;
+	
+}
+.ram1{
+	text-align: center;
+    text-transform: capitalize;
+    color: burlywood;
+	
+}
+.ram2{
+	    text-indent: 70px;
+    color: aliceblue;
+	
+}
+.ram3{
+	    letter-spacing: 7px;
+    color: aqua;
+}
+.ram4{
+	line-height: 3;
+    color: brown;
+}
+.ram5{
+	    word-spacing: 10px;
+    color: chartreuse;
+}
+.ram6{
+	    white-space: break-spaces;
+    color: floralwhite;
+}
+.vijay8{
+	border: 10px double;
+    padding: 10px;
+    background-color: cornsilk;
+}
+.suri1{
+	text-shadow: 2px 2px 1px #299d71;
+}
+.suri2{
+	    text-shadow: 1px 2px 1px #bb1111;
+}
+.suri3{
+	    text-shadow: 1px 2px 0px #9f1e9e;
+}
+
+
+
